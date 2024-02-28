@@ -1,0 +1,30 @@
+@font-face {
+    font-family: gothamBlack;
+    src:url(./fonts/gothamBlack/gothamBlackRegular.otf);
+}
+
+@font-face {
+    font-family: PTsans;
+    src:url(./fonts/PTSans-Regular.ttf);
+}
+
+*{
+    font-family: PTsans;
+}
+
+h1{
+    font-family: gothamBlack;
+}
+
+.PTsans{
+    font-family: PTsans;
+    font-weight: 100;
+}
+
+.black{
+    background-color: #212529;
+}
+
+.light{
+    background-color: #DCEEF2;
+}
